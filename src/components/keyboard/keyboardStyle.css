@@ -1,0 +1,40 @@
+body{
+  align-items: center;
+  text-align: center;
+  width: 80vw;
+}
+
+html{
+  margin-left: 12vw;
+}
+
+.screen{
+  height: 20vh;
+  border: black 2px solid;
+  border-radius: 15px;
+}
+
+.char {
+  border: 1px solid #979797;
+  border-radius: 5px;
+  background-color: #ffc2c2;
+  margin: 0.75px;
+}
+
+.char:hover {
+  background-color: #fd8686;
+}
+
+.space{
+  width: 17vw;
+  height: 2vw;
+}
+
+.style button{
+  border: #ffc2c2 2px solid;
+  margin: 3px;
+}
+
+.style button:hover{
+  border: #fd8686 2px solid;
+}
