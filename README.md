@@ -1,6 +1,3 @@
-להלן תוכן קובץ `README.md` המתאר את הפרויקט שלך:  
-
-```markdown
 # Keyboard Simulation Project  
 
 ## Overview  
@@ -20,7 +17,7 @@ This project is a React-based keyboard simulation application that provides user
    ```bash
    git clone https://github.com/tsw1212/keyboard.git
    cd keyboard
-   ```  
+
 
 2. Install dependencies:  
    ```bash
@@ -48,5 +45,3 @@ For any questions or suggestions, feel free to reach out:
 **Tsipi Wajsberg**  
 - Email: tsw32595@gmail.com  
 ```
-
-שמור את הקובץ בתיקיית הפרויקט בשם `README.md`.
